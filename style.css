@@ -13,7 +13,8 @@ html {
 body {
   font-family: sans-serif;
   color: #eee;
-  background-image: url("Renassissance_Painting_Brown_Color.jpg");
+  background-color: #222;
+  /* background-image: url("Renassissance_Painting_Brown_Color.jpg"); */
 }
 
 /* LAYOUT */
